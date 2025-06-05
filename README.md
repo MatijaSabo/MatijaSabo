@@ -49,7 +49,7 @@ I'm a Technical Architect and Senior Software Engineer at IBM iX, with over a de
 
 
 ## 📫 Let's Connect
-🌐 [matija-sabolic.from.hr](matija-sabolic.from.hr)
+🌐 [matija-sabolic.from.hr](https://matija-sabolic.from.hr)
 
 💼 [LinkedIn](https://www.linkedin.com/in/matija-saboli%C4%87/) 
 
