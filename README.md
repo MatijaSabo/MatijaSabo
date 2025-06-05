@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Matija Sabolić, but you can call me Sabo 👋
 
-<!--
-**MatijaSabo/MatijaSabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Technical Architect and Senior Software Engineer at IBM iX, with over a decade of experience in full-stack development and a strong focus on Adobe Experience Manager (AEM). As an Adobe Certified Master and Expert, I've led complex AEM projects across various industries, including automotive, fashion, education, and aviation.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Adobe Experience Manager
+
+* AEMaaCS, AEM On-prem
+* Multi-tenancy, MSM
+* Experience & Content Fragments
+* Dynamic Media, GraphQL
+* Core Components
+* Dispatcher, CDN
+* Performance Optimization
+
+### Frontend 
+* JavaScript, TypeScript, jQuery
+* Node.js, Next.js
+* React
+* HTML, CSS
+
+### Backend
+* Java
+* SQL (MySQL, PostgreSQL)
+* Unit & Integration Testing
+
+### Dev Practices
+* Software Architecture
+* Problem solving
+* Reverse Engineering
+* Code Quality
+* Mentoring
+
+## 🎓 Certifications & Education
+### ⭐ Adobe Certified Master & Expert:
+
+* AEM Sites Architect
+
+* AEM Sites Developer
+
+* AEM Assets Developer
+
+* AEM Dev/Ops Engineer
+
+* AEMaaCS Migration Expert
+
+#### 🎓 MSc in Information and Software Engineering from the Faculty of Organization and Informatics, Croatia
+
+
+## 📫 Let's Connect
+🌐 [matija-sabolic.from.hr](matija-sabolic.from.hr)
+
+💼 [LinkedIn](https://www.linkedin.com/in/matija-saboli%C4%87/) 
+
+✉️ [Email](mailto:matijasaboli37@gmail.com)
